@@ -1,3 +1,5 @@
+CryptoClustering-challenge
+
 The analysis is to cluster cryptocurrencies based on their market data using K-means clustering. I am usins two approaches - one is using the original scaled data and the another is using the Principal Component Analysis (PCA) for feature reduction. These are the following steps that will be performed.
 
 --Data Preparation
